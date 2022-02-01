@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UserRegistrationUsingLambda/1.0.0": {
+        "runtime": {
+          "UserRegistrationUsingLambda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserRegistrationUsingLambda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

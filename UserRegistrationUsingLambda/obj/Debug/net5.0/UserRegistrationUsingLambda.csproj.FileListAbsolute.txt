@@ -1,0 +1,16 @@
+C:\Users\Hp\source\repos\UserRegistrationUsingLambda\obj\Debug\net5.0\UserRegistrationUsingLambda.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\UserRegistrationUsingLambda\obj\Debug\net5.0\UserRegistrationUsingLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\UserRegistrationUsingLambda\obj\Debug\net5.0\UserRegistrationUsingLambda.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\UserRegistrationUsingLambda\obj\Debug\net5.0\UserRegistrationUsingLambda.AssemblyInfo.cs
+C:\Users\Hp\source\repos\UserRegistrationUsingLambda\obj\Debug\net5.0\UserRegistrationUsingLambda.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\UserRegistrationUsingLambda\bin\Debug\net5.0\UserRegistrationUsingLambda.exe
+C:\Users\Hp\source\repos\UserRegistrationUsingLambda\bin\Debug\net5.0\UserRegistrationUsingLambda.deps.json
+C:\Users\Hp\source\repos\UserRegistrationUsingLambda\bin\Debug\net5.0\UserRegistrationUsingLambda.runtimeconfig.json
+C:\Users\Hp\source\repos\UserRegistrationUsingLambda\bin\Debug\net5.0\UserRegistrationUsingLambda.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\UserRegistrationUsingLambda\bin\Debug\net5.0\UserRegistrationUsingLambda.dll
+C:\Users\Hp\source\repos\UserRegistrationUsingLambda\bin\Debug\net5.0\ref\UserRegistrationUsingLambda.dll
+C:\Users\Hp\source\repos\UserRegistrationUsingLambda\bin\Debug\net5.0\UserRegistrationUsingLambda.pdb
+C:\Users\Hp\source\repos\UserRegistrationUsingLambda\obj\Debug\net5.0\UserRegistrationUsingLambda.dll
+C:\Users\Hp\source\repos\UserRegistrationUsingLambda\obj\Debug\net5.0\ref\UserRegistrationUsingLambda.dll
+C:\Users\Hp\source\repos\UserRegistrationUsingLambda\obj\Debug\net5.0\UserRegistrationUsingLambda.pdb
+C:\Users\Hp\source\repos\UserRegistrationUsingLambda\obj\Debug\net5.0\UserRegistrationUsingLambda.genruntimeconfig.cache
