@@ -35,5 +35,10 @@ namespace UserRegistration_Lambda
         {
             return Regex.IsMatch(email, EmailREGEX);
         }
+
+        internal bool ValidMobile(string mobilenum)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
