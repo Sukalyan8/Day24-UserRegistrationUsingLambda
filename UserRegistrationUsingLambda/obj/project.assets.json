@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\UserRegistrationUsingLambda\\UserRegistrationUsingLambda.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\Day24-UserRegistrationUsingLambda\\UserRegistrationUsingLambda\\UserRegistrationUsingLambda.csproj",
       "projectName": "UserRegistrationUsingLambda",
-      "projectPath": "C:\\Users\\Hp\\source\\repos\\UserRegistrationUsingLambda\\UserRegistrationUsingLambda.csproj",
+      "projectPath": "C:\\Users\\Hp\\source\\repos\\Day24-UserRegistrationUsingLambda\\UserRegistrationUsingLambda\\UserRegistrationUsingLambda.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hp\\source\\repos\\UserRegistrationUsingLambda\\obj\\",
+      "outputPath": "C:\\Users\\Hp\\source\\repos\\Day24-UserRegistrationUsingLambda\\UserRegistrationUsingLambda\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

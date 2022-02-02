@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I2J1bM6hovxZLSYAo2g8r65ZnorCHmVox64PDImTilQmxFD+95bt82vrPgSN9swAwp8304MtBAcE3JPRKi0cbQ==",
+  "dgSpecHash": "bRp29ibSOxiIPB2uggNODnaszk3gtRCiNhmc7mVpcOCV5QNLEyWVcPmXokJVgs5oo/BCDbhIqYrTeE937yei3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hp\\source\\repos\\UserRegistrationUsingLambda\\UserRegistrationUsingLambda.csproj",
+  "projectFilePath": "C:\\Users\\Hp\\source\\repos\\Day24-UserRegistrationUsingLambda\\UserRegistrationUsingLambda\\UserRegistrationUsingLambda.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
