@@ -1,5 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using UserRegistrationUsingLambda;
+using UserRegistration_Lambda;
 
 namespace UserRegistration_Lambda_MSTest
 {
@@ -125,6 +125,17 @@ namespace UserRegistration_Lambda_MSTest
             var result = userRegister.Password();
             //Assert
             Assert.AreEqual("Entry UnSuccessfull", result);
+        }
+        //UC-11
+        [TestMethod]
+        public void TestMethod11()
+        {
+            //Arrange
+            UserRegister userRegister = new UserRegister();
+            //Act
+            var result = userRegister.MultipleEmails("abc@edu.co.in", "abc+100@gmail.com");
+            //Assert
+            Assert.AreEqual("Entry Successful", result);
         }
     }
 }
